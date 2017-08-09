@@ -12,8 +12,8 @@ namespace SampleNotification
         public readonly static int Interval = Convert.ToInt32(ConfigurationManager.AppSettings["Interval"]);
         public readonly static string StatusFailed = "Failed";
         public readonly static string StatusStopped = "Stopped";
-        public readonly static string Subject = "Failed/Stopped Engine Status";
-        public readonly static string MailBody = "The Engines {0} are Failed!" + Environment.NewLine + "The Engines {1} are Stopped!";
+        public readonly static string Subject = "Failed/Stopped channel Status";
+        public readonly static string MailBody = "The channels {0} are Failed!" + Environment.NewLine + "The channels {1} are Stopped!";
         public readonly static string FromMailID = ConfigurationManager.AppSettings["FromMailID"].ToString();
         public readonly static string ToMailID = ConfigurationManager.AppSettings["ToMailID"].ToString();
         public readonly static string ConnectionString = ConfigurationManager.AppSettings["ConnectionString"].ToString();
