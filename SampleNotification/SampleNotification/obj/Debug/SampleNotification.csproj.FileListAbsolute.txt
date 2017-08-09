@@ -1,0 +1,7 @@
+C:\PSHXRN\Test\SampleNotification\SampleNotification\bin\Debug\SampleNotification.exe.config
+C:\PSHXRN\Test\SampleNotification\SampleNotification\bin\Debug\SampleNotification.exe
+C:\PSHXRN\Test\SampleNotification\SampleNotification\bin\Debug\SampleNotification.pdb
+C:\PSHXRN\Test\SampleNotification\SampleNotification\obj\Debug\SampleNotification.exe
+C:\PSHXRN\Test\SampleNotification\SampleNotification\obj\Debug\SampleNotification.pdb
+C:\PSHXRN\Test\SampleNotification\SampleNotification\obj\Debug\SampleNotification.ProjectInstaller.resources
+C:\PSHXRN\Test\SampleNotification\SampleNotification\obj\Debug\SampleNotification.csproj.GenerateResource.Cache
